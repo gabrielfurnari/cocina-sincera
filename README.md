@@ -85,6 +85,14 @@ O seguir el proyecto en IG: [@cocinasincera](https://instagram.com/cocinasincera
 
 ---
 
-## 🌀 Frase de cabecera
+## 🌀 Estilo visual sugerido para la web
+
+La identidad visual de Cocina Sincera está inspirada en el **color azul calma**, una paleta cromática que transmite tranquilidad, confianza y claridad. La estética debe evocar limpieza, orden y un enfoque profesional pero humano. 
+
+Referencias visuales: [Paleta azul calma](https://slocum.es/business-vision/marketing-de-color-azul-la-tranquilidad-que-transmiten-las-marcas-con-el-celeste/)
+
+---
+
+## 🌟 Frase de cabecera
 
 **“Procesos conscientes, cocinas sinceras.”**
